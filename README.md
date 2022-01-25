@@ -28,4 +28,4 @@ We create and use Ifs class:
 
 Each transformation can be represented as:
 
-![equation](<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;f_{1}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}&space;=&space;\begin{pmatrix}\frac{1}{2}&space;&&space;0&space;\\0&space;&&space;\frac{1}{2}&space;\\\end{pmatrix}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}" title="\bg_white f_{1}\begin{pmatrix}x \\ y\end{pmatrix} = \begin{pmatrix}\frac{1}{2} & 0 \\0 & \frac{1}{2} \\\end{pmatrix}\begin{pmatrix}x \\ y\end{pmatrix}" />)
+![f1](<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;f_{1}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}&space;=&space;\begin{pmatrix}\frac{1}{2}&space;&&space;0&space;\\0&space;&&space;\frac{1}{2}&space;\\\end{pmatrix}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}" title="\bg_white f_{1}\begin{pmatrix}x \\ y\end{pmatrix} = \begin{pmatrix}\frac{1}{2} & 0 \\0 & \frac{1}{2} \\\end{pmatrix}\begin{pmatrix}x \\ y\end{pmatrix}" />)
