@@ -4,7 +4,7 @@
 Method
 ---------------------
 
-Let (x0, y0) be an arbitrary starting point (usually fixed to be (0, 0)). Let S be a finite set, which elements are functions T, that are linear (more generally affinite) transformations. Let P be a list of corresponding probabilities to each functions from S. To get the next point, we apply a function T<sub>i <sub> randomly with a probability P<sub>i <sub>.
+Let (x0, y0) be an arbitrary starting point (usually fixed to be (0, 0)). Let S be a finite set, which elements are functions T, that are linear (more generally affinite) transformations. Let P be a list of corresponding probabilities to each functions from S. To get the next point, we apply a function T<sub>i <\sub> randomly with a probability P<sub>i <\sub>.
 
 
 Example
