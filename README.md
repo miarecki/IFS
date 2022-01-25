@@ -27,4 +27,5 @@ We create and use Ifs class:
 ```
 
 Each transformation can be represented as:
-![equation](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20f_%7B1%7D%5Cbegin%7Bpmatrix%7Dx%20%5C%5C%20y%5Cend%7Bpmatrix%7D%20=%20%5Cbegin%7Bpmatrix%7D%5Cfrac%7B1%7D%7B2%7D%20&%200%20%5C%5C0%20&%20%5Cfrac%7B1%7D%7B2%7D%20%5C%5C%5Cend%7Bpmatrix%7D%5Cbegin%7Bpmatrix%7Dx%20%5C%5C%20y%5Cend%7Bpmatrix%7D)
+
+![equation](<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;f_{1}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}&space;=&space;\begin{pmatrix}\frac{1}{2}&space;&&space;0&space;\\0&space;&&space;\frac{1}{2}&space;\\\end{pmatrix}\begin{pmatrix}x&space;\\&space;y\end{pmatrix}" title="\bg_white f_{1}\begin{pmatrix}x \\ y\end{pmatrix} = \begin{pmatrix}\frac{1}{2} & 0 \\0 & \frac{1}{2} \\\end{pmatrix}\begin{pmatrix}x \\ y\end{pmatrix}" />)
