@@ -28,4 +28,4 @@ We create and use Ifs class:
 
 Each transformation can be represented as:
 
-![f1](https://latex.codecogs.com/png.image?\dpi{110}%20\bg_white%20f_{1}\begin{pmatrix}x%20\\%20y\end{pmatrix}%20=%20\begin{pmatrix}\frac{1}{2}%20&%200%20\\0%20&%20\frac{1}{2}%20\\\end{pmatrix}\begin{pmatrix}x%20\\%20y\end{pmatrix})
+![f1](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D%20%5Cbg_white%20f_%7B1%7D%5Cbegin%7Bpmatrix%7Dx%20%5C%5C%20y%5Cend%7Bpmatrix%7D%20=%20%5Cbegin%7Bpmatrix%7D%5Cfrac%7B1%7D%7B2%7D%20&%200%20%5C%5C0%20&%20%5Cfrac%7B1%7D%7B2%7D%20%5C%5C%5Cend%7Bpmatrix%7D%5Cbegin%7Bpmatrix%7Dx%20%5C%5C%20y%5Cend%7Bpmatrix%7D)
