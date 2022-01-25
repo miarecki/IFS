@@ -41,4 +41,4 @@ They are chosen with an equal probability.
 ```  
 
 Choosing 100000 iterations, we get this picture:  
-![sierpinski](images/sierpinski_traingle.png?raw=true)
+![sierpinski](images/sierp_triangle.png?raw=true)
